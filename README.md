@@ -358,25 +358,18 @@ The dashboard can be opened directly in a modern web browser.
 
 ## Human Review Distribution
 
-![Human Review Distribution](./screenshots/netsage_ai_human_review_chart.png)
+<img width="1580" height="1035" alt="netsage_ai_human_review_chart" src="https://github.com/user-attachments/assets/f156d0f2-a36f-495a-8fb7-fa31c3f22768" />
 
 ## NetSage AI Review Decision Analysis
 
-![Human Review Decision Distribution](./screenshots/NetSage%20AI%20%23U2014%20Human%20Review%20Decision%20Distribution.png)
+<img width="960" height="540" alt="NetSage AI — Human Review Decision Distribution" src="https://github.com/user-attachments/assets/e14e4535-72ca-4f63-bb71-5cf12d930d62" />
 
 ## Project Screenshots
 
-<p align="center">
-  <img src="screenshots/Screenshot%20(1).png" width="80%" alt="NetSage AI Screenshot 1">
-</p>
-
-<p align="center">
-  <img src="screenshots/Screenshot%20(3).png" width="80%" alt="NetSage AI Screenshot 2">
-</p>
-
-<p align="center">
-  <img src="screenshots/Screenshot%20(4).png" width="80%" alt="NetSage AI Screenshot 3">
-</p>
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/d845d75e-ae64-43ac-bb4c-3abb6b0efe60" />
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/73c1f33f-1062-4ebf-9efd-64597f9b423b" />
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/51cfa6b6-2685-401c-8588-324cd0da2538" />
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/38c09c97-e122-488c-8c75-74228fd94479" />
 
 ---
 
