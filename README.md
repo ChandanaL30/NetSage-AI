@@ -358,11 +358,11 @@ The dashboard can be opened directly in a modern web browser.
 
 ## Human Review Distribution
 
-![Human Review Distribution](screenshots/netsage_ai_human_review_chart.png)
+![Human Review Distribution](./screenshots/netsage_ai_human_review_chart.png)
 
 ## NetSage AI Review Decision Analysis
 
-![Human Review Decision Distribution](screenshots/NetSage%20AI%20%23U2014%20Human%20Review%20Decision%20Distribution.png)
+![Human Review Decision Distribution](./screenshots/NetSage%20AI%20%23U2014%20Human%20Review%20Decision%20Distribution.png)
 
 ## Project Screenshots
 
